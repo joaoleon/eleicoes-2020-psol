@@ -1,4 +1,5 @@
 # eleicoes-2020-psol
+
 Projeto de análise de dados eleitorais das eleições de 2020 na cidade do Rio de Janeiro. Verifiquei a distribuição dos votos em vereadores e vereadoras do Partido Socialismo e Liberdade (PSOL) a partir de critérios regionais.
 
 Desempenho de vereadores e vereadoras do Partido Socialismo e Liberdade (PSOL) na cidade do Rio de Janeiro durante as eleições municipais de 2020
